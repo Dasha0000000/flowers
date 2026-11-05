@@ -74,7 +74,7 @@ div#bg-3-1{
 
 	width:529px;
 
-	height:757px
+	height:757px;
 
 	top:-100px;
 
@@ -260,7 +260,7 @@ div#bg-1-5{
 
 first {
 
-  animation: first 5s infinite;
+  animation: first 8s infinite;
 
 }
 
@@ -304,7 +304,7 @@ second {
 
 third {
 
-  animation: third 5s infinite;
+  animation: third 7s infinite;
 
 }
 
