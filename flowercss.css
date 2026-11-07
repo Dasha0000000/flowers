@@ -258,7 +258,7 @@ div#bg-1-5{
 
 }
 
-.dd {
+dd {
 
   animation: dd 8s infinite;
 
@@ -268,19 +268,19 @@ div#bg-1-5{
 
   0% {
 
-    transform: translateY(-80);
+    transform: translateY(0);
 
   }
 
   100% {
 
-    transform: translateY(410vh);
+    transform: translateY(310vh);
 
   }
 
 }
 
-.rr {
+rr {
 
   animation: rr 5s infinite;
 
@@ -290,19 +290,19 @@ div#bg-1-5{
 
   0% {
 
-    transform: translateY(-80);
+    transform: translateY(0);
 
   }
 
   100% {
 
-    transform: translateY(410vh);
+    transform: translateY(310vh);
 
   }
 
 }
 
-.tt {
+tt {
 
   animation: tt 7s infinite;
 
@@ -312,13 +312,13 @@ div#bg-1-5{
 
   0% {
 
-    transform: translateY(-80);
+    transform: translateY(0);
 
   }
 
   100% {
 
-    transform: translateY(410vh);
+    transform: translateY(310vh);
 
   }
 
