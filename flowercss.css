@@ -260,7 +260,7 @@ div#bg-1-5{
 
 dd {
 
-  animation: dd 8s infinite;
+  animation: dd 4s infinite;
 
 }
 
@@ -274,7 +274,7 @@ dd {
 
   100% {
 
-    transform: translateY(350vh);
+    transform: translateY(250vh);
 
   }
 
@@ -296,7 +296,7 @@ rr {
 
   100% {
 
-    transform: translateY(350vh);
+    transform: translateY(250vh);
 
   }
 
@@ -304,7 +304,7 @@ rr {
 
 tt {
 
-  animation: tt 7s infinite;
+  animation: tt 6s infinite;
 
 }
 
@@ -318,7 +318,7 @@ tt {
 
   100% {
 
-    transform: translateY(350vh);
+    transform: translateY(250vh);
 
   }
 
