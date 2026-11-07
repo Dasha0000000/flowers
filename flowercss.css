@@ -258,71 +258,30 @@ div#bg-1-5{
 
 }
 
-dd {
-
-  animation: dd 4s infinite;
-
+.dd {
+  animation: dd 5s linear infinite;
 }
 
 @keyframes dd {
-
-  0% {
-
-    transform: translateY(0);
-
-  }
-
-  100% {
-
-    transform: translateY(400vh);
-
-  }
-
+  0%   { transform: translateY(-20vh); }
+  100% { transform: translateY(110vh); }
 }
 
-rr {
-
-  animation: rr 5s infinite;
-
+.rr {
+  animation: rr 7s linear infinite;
 }
 
 @keyframes rr {
-
-  0% {
-
-    transform: translateY(0);
-
-  }
-
-  100% {
-
-    transform: translateY(400vh);
-
-  }
-
+  0%   { transform: translateY(-20vh); }
+  100% { transform: translateY(110vh); }
 }
 
-tt {
-
-  animation: tt 6s infinite;
-
+.tt {
+  animation: tt 10s linear infinite;
 }
 
 @keyframes tt {
-
-  0% {
-
-    transform: translateY(0);
-
-  }
-
-  100% {
-
-    transform: translateY(400vh);
-
-  }
-
+  0%   { transform: translateY(-20vh); }
+  100% { transform: translateY(110vh); }
 }
-
-
 
