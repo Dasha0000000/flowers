@@ -258,13 +258,13 @@ div#bg-1-5{
 
 }
 
-first {
+.dd {
 
-  animation: first 8s infinite;
+  animation: dd 8s infinite;
 
 }
 
-@keyframes first {
+@keyframes dd {
 
   0% {
 
@@ -280,13 +280,13 @@ first {
 
 }
 
-second {
+.rr {
 
-  animation: second 5s infinite;
+  animation: rr 5s infinite;
 
 }
 
-@keyframes second {
+@keyframes rr {
 
   0% {
 
@@ -302,13 +302,13 @@ second {
 
 }
 
-third {
+.tt {
 
-  animation: third 7s infinite;
+  animation: tt 7s infinite;
 
 }
 
-@keyframes third {
+@keyframes tt {
 
   0% {
 
