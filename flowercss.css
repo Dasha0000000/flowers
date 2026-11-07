@@ -264,7 +264,7 @@ div#bg-1-5{
 
 @keyframes dd {
   0%   { transform: translateY(-20vh); }
-  100% { transform: translateY(110vh); }
+  100% { transform: translateY(150vh); }
 }
 
 .rr {
@@ -273,7 +273,7 @@ div#bg-1-5{
 
 @keyframes rr {
   0%   { transform: translateY(-20vh); }
-  100% { transform: translateY(110vh); }
+  100% { transform: translateY(150vh); }
 }
 
 .tt {
@@ -282,6 +282,6 @@ div#bg-1-5{
 
 @keyframes tt {
   0%   { transform: translateY(-20vh); }
-  100% { transform: translateY(110vh); }
+  100% { transform: translateY(150vh); }
 }
 
