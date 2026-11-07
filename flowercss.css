@@ -274,7 +274,7 @@ dd {
 
   100% {
 
-    transform: translateY(370vh);
+    transform: translateY(100vh);
 
   }
 
@@ -296,7 +296,7 @@ rr {
 
   100% {
 
-    transform: translateY(370vh);
+    transform: translateY(150vh);
 
   }
 
@@ -318,7 +318,7 @@ tt {
 
   100% {
 
-    transform: translateY(370vh);
+    transform: translateY(200vh);
 
   }
 
